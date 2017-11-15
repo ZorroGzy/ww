@@ -1,1 +1,5 @@
-eeeqtrrewytyr
+include<stdio.h>
+int main(){
+  printf("hello LAN");
+  return 0;
+}
